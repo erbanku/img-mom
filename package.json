@@ -14,9 +14,9 @@
     "node-polyfill-webpack-plugin": "^2.0.1",
     "ts-loader": "^9.5.1",
     "typescript": "^5.2.2",
-    "webpack": "^5.103.0",
+    "webpack": "^5.105.1",
     "webpack-cli": "^5.1.4",
-    "wrangler": "^4.51.0"
+    "wrangler": "^4.59.1"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.504.0",
