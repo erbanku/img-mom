@@ -19,7 +19,7 @@
     "wrangler": "^4.59.1"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.504.0",
+    "@aws-sdk/client-s3": "^3.988.0",
     "@cfworker/web": "^1.14.0",
     "cfworker-middleware-telegraf": "^2.0.2",
     "telegraf": "^4.15.0"
