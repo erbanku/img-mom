@@ -10,17 +10,17 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260822.1",
-    "itty-router": "^5.0.24",
-    "node-polyfill-webpack-plugin": "^4.1.0",
+    "itty-router": "^3.0.12",
+    "node-polyfill-webpack-plugin": "^2.0.1",
     "ts-loader": "^9.6.2",
-    "typescript": "^7.0.2",
-    "webpack": "^5.109.2",
+    "typescript": "~5.8.3",
+    "webpack": "^4.47.0",
     "webpack-cli": "^7.2.2",
-    "wrangler": "^4.125.0"
+    "wrangler": "^3.114.0"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1116.0",
-    "@cfworker/web": "^5.1.0",
+    "@cfworker/web": "^1.14.0",
     "cfworker-middleware-telegraf": "^2.0.2",
     "telegraf": "^4.16.3"
   },
